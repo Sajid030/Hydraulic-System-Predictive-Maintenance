@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Demo
-- Link: 
+- Link: https://predict-maintenance.streamlit.app/
 
 `Note:` If the website link provided above is not working, it might mean that the deployment has been stopped or there are technical issues. We apologize for any inconvenience.
 
